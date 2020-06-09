@@ -1,5 +1,5 @@
 # bash-config
-Notes from the dotfiles
+Non-proprietary leftovers the dotfiles
 
 ```bash
 ## Go Lang
